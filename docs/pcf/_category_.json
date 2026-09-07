@@ -1,0 +1,8 @@
+{
+    "label":  "PCF",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Power Apps Component Framework development from lifecycle fundamentals to advanced controls."
+             },
+    "position":  10
+}

@@ -1,0 +1,8 @@
+{
+    "label":  "Microsoft Foundry",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Microsoft Foundry development patterns for enterprise AI agents and AI applications."
+             },
+    "position":  15
+}

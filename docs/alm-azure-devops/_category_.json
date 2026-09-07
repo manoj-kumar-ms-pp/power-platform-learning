@@ -1,0 +1,8 @@
+{
+    "label":  "ALM / Azure DevOps",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn enterprise ALM, source control, CI/CD, deployment pipelines, testing, and release practices."
+             },
+    "position":  12
+}

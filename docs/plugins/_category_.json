@@ -1,0 +1,8 @@
+{
+    "label":  "Dataverse Plugins",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Dataverse plugin development, execution pipeline, testing, performance, and production patterns."
+             },
+    "position":  8
+}

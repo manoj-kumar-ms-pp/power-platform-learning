@@ -1,0 +1,8 @@
+{
+    "label":  "Azure AI Search / RAG / MCP",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn retrieval engineering, Azure AI Search, RAG, MCP, evaluation, and secure agent integration."
+             },
+    "position":  16
+}

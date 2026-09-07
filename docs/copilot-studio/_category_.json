@@ -1,0 +1,8 @@
+{
+    "label":  "Copilot Studio",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Copilot Studio agent development, tools, actions, evaluation, security, and operational practices."
+             },
+    "position":  14
+}

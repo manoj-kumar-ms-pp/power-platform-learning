@@ -4,9 +4,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Power Platform Learning",
-  tagline: "From Basics to Enterprise Power Platform Engineering",
-  favicon: "img/favicon.ico",
+  title: "Power Platform Engineering Academy",
+  tagline: "From Fundamentals to Enterprise Power Platform Engineering",
 
   future: {
     v4: true,
@@ -36,9 +35,11 @@ const config = {
           editUrl:
             "https://github.com/manoj-kumar-ms-pp/power-platform-learning/tree/main/",
         },
+
         blog: {
           showReadingTime: true,
         },
+
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -49,25 +50,19 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/docusaurus-social-card.jpg",
-
       colorMode: {
         respectPrefersColorScheme: true,
       },
 
       navbar: {
-        title: "Power Platform Learning",
-        logo: {
-          alt: "Power Platform Learning Logo",
-          src: "img/logo.svg",
-        },
+        title: "Power Platform Engineering Academy",
 
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "learningSidebar",
             position: "left",
-            label: "Learn",
+            label: "Learning Paths",
           },
           {
             to: "/blog",
@@ -87,15 +82,23 @@ const config = {
 
         links: [
           {
-            title: "Learning",
+            title: "Learn",
             items: [
               {
-                label: "Start Learning",
-                to: "/docs/intro",
+                label: "Learning Paths",
+                to: "/docs/",
               },
             ],
           },
-
+          {
+            title: "Content",
+            items: [
+              {
+                label: "Blog",
+                to: "/blog",
+              },
+            ],
+          },
           {
             title: "Resources",
             items: [
@@ -107,7 +110,7 @@ const config = {
           },
         ],
 
-        copyright: `Copyright © ${new Date().getFullYear()} Power Platform Learning.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Power Platform Engineering Academy.`,
       },
 
       prism: {

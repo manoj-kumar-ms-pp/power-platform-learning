@@ -1,0 +1,8 @@
+{
+    "label":  "Custom APIs / Web API",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn reusable Dataverse operations, Custom APIs, Web API integration, and API contract design."
+             },
+    "position":  9
+}

@@ -1,0 +1,8 @@
+{
+    "label":  "Security",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Dataverse and Power Platform security, access control, roles, teams, ownership, and governance."
+             },
+    "position":  5
+}

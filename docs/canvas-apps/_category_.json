@@ -1,0 +1,8 @@
+{
+    "label":  "Canvas Apps",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Canvas Apps, Power Fx, delegation, components, performance, and enterprise app patterns."
+             },
+    "position":  3
+}

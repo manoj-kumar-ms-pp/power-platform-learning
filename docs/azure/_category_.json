@@ -1,0 +1,8 @@
+{
+    "label":  "Azure",
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Learn Azure integration patterns for Power Platform including Functions, Service Bus, APIs, identity, and observability."
+             },
+    "position":  11
+}

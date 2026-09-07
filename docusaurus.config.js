@@ -70,6 +70,11 @@ const config = {
             label: "Learn",
           },
           {
+            to: "/blog",
+            label: "Blog",
+            position: "left",
+          },
+          {
             href: "https://github.com/manoj-kumar-ms-pp/power-platform-learning",
             label: "GitHub",
             position: "right",

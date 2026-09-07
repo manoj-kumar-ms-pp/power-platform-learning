@@ -36,7 +36,9 @@ const config = {
           editUrl:
             "https://github.com/manoj-kumar-ms-pp/power-platform-learning/tree/main/",
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },

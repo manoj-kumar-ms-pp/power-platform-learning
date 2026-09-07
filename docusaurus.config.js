@@ -38,6 +38,7 @@ const config = {
 
         blog: {
           showReadingTime: true,
+          authorsMapPath: "authors.yml",
         },
 
         theme: {
@@ -86,7 +87,7 @@ const config = {
             items: [
               {
                 label: "Learning Paths",
-                to: "/docs/",
+                to: "/docs/start-here",
               },
             ],
           },
